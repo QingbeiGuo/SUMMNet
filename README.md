@@ -7,7 +7,7 @@ Numerous experiments show that our SUMMNet obtains superior performance in image
     <h3> General Framework </h3>
 </div>
 <div align="center">
-    <img src="SUMMNet.png" width="80%">
+    <img src="figures/SUMMNet.png" width="80%">
 </div>
 
 ## Main results on Image Classification
@@ -62,5 +62,5 @@ we perform transfer learning from ImageNet-1K to four downstream datasets, inclu
 
 To understand how SUMMNet works, we visualize attention maps at the last block of the 3rd stage and compare them before and after the across-head interaction, as shown in Fig.
 <div align="center">
-    <img src="visual.png" width="80%">
+    <img src="figures/visual.png" width="80%">
 </div>
